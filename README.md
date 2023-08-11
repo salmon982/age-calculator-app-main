@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Responsive Age Calculator](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Responsive Age Calculator](https://www.frontendmentor.io/solutions/responsive-age-calculator-nYYIZFF4qn)
+- Live Site URL: [Live Site](https://salmon982-age-calculator.netlify.app/)
 
 ## My process
 
